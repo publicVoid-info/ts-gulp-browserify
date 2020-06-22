@@ -1,0 +1,8 @@
+{
+  "include": ["src/*.ts"],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "target": "ES5"
+  }
+}
